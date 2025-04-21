@@ -1,3 +1,4 @@
+# Hello, my name is Telyse!
 <p align="center"> Hello, I'm Telyse!</p>
 
 ### About Me
