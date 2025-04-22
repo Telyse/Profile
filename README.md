@@ -10,7 +10,7 @@
 <p align="center"> I am using HTML, CSS, adn Javascript to create a fitness application</p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,express,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ### Fun Facts!
