@@ -18,5 +18,5 @@
 <p align="center"> Blue is my ultimate favorite color, followed by green then purple.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olerk16&show_icons=true&theme=gruvbox" alt="Colten's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olerk16&show_icons=true&theme=gruvbox" alt="Telyse's GitHub Stats" />
 </p>
